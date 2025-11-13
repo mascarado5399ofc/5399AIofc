@@ -1,0 +1,7 @@
+{
+  "name": "Copy of 5399AI",
+  "description": "Uma IA profissional e avançada com geração de mídia, planos de assinatura e ferramentas de estudo. Projetada para ser superior às IAs existentes, com uma interface elegante e poderosa.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
